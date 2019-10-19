@@ -14,7 +14,7 @@ spec:
         app: hello
     spec:
       containers:
-      - name: hello-world
+      - name: hello-world1
         # This is the import path for the Go project Dockerhub image to build and run.
         image: yusufkaratoprak/kubernetes-gosample3:latest
         ports:
