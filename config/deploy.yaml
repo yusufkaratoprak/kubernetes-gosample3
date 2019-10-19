@@ -1,7 +1,7 @@
 apiVersion: apps/v1beta1
 kind: Deployment
 metadata:
-  name: hello-world
+  name: hello-world2
 spec:
   replicas: 1
   selector:
